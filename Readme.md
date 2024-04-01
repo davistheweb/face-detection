@@ -1,1 +1,1 @@
-<h1>Building a face detcetion app with python and opencv</h1>
+<h1>Building a face detection app with python and opencv</h1>
